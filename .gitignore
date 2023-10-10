@@ -1,1 +1,9 @@
 hfive/*
+__pycache__/*
+dnn_model/*
+model/*
+model/*
+templates/*
+venv/*
+static/*
+*.h5
